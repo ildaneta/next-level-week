@@ -1,11 +1,9 @@
 import express from 'express';
+import routes from './routes';
 
 const app = express();
 
-app.get('/users', (request, response) => {
-  console.log("Listagem de usuários");
+app.use(express.json());
+app.use(routes);
 
-  response.json({ message: "Essa alteração funcionou de novo" });
-});
-
-app.listen(4444);
+app.listen(3333);
