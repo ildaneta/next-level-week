@@ -8,6 +8,7 @@ const connection = knex({
     // dirname é uma variável global que devolve o caminho do diretório do arquivo que estamos executando
     filename: path.resolve(__dirname, 'database.sqlite'),
   },
+  useNullAsDefault: true
 });
 
 export default connection;
