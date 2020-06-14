@@ -9,10 +9,7 @@
   "editor.formatOnSave": true,
   "editor.parameterHints.enabled": false,
   "editor.tabSize": 2,
-  "editor.rulers": [
-    80,
-    120
-  ],
+  "editor.rulers": [80, 120],
   "prettier.singleQuote": true,
   "emmet.syntaxProfiles": {
     "javascript": "jsx"
@@ -25,12 +22,12 @@
   "window.zoomLevel": 1,
   "[javascript]": {
     "editor.codeActionsOnSave": {
-      "source.fixAll.eslint": true,
+      "source.fixAll.eslint": true
     }
   },
   "[javascriptreact]": {
     "editor.codeActionsOnSave": {
-      "source.fixAll.eslint": true,
+      "source.fixAll.eslint": true
     }
   }
 }
