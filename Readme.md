@@ -1,6 +1,6 @@
-![image](https://user-images.githubusercontent.com/21963291/85339646-f83ebf80-b4ba-11ea-9519-ba3920e36928.png)
+<img src="https://user-images.githubusercontent.com/21963291/85338764-45ba2d00-b4b9-11ea-921a-d15eb692b2ea.png" alt="Next Level Week" width="300" height="200">
 
-## ![image](https://user-images.githubusercontent.com/21963291/85338764-45ba2d00-b4b9-11ea-921a-d15eb692b2ea.png) Menu Contents
+## ![image]() Menu Contents
 
 - [Motivation](#pushpin-motivation)
 - [License](#page_with_curl-license)
