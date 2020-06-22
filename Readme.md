@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/21963291/85339646-f83ebf80-b4ba-11ea-9519-ba3920e36928.png" alt="Girl in a jacket" width="500" height="600">
+<img src="https://user-images.githubusercontent.com/21963291/85340472-8bc4c000-b4bc-11ea-8695-704f371e8a09.png" alt="Next Level Week" width="500" height="600">
 
 ## ![image](https://user-images.githubusercontent.com/21963291/85338764-45ba2d00-b4b9-11ea-921a-d15eb692b2ea.png) Menu Contents
 
